@@ -22,4 +22,3 @@ Um projeto de **IoT voltado para saúde**, usando o **ESP32** e o sensor **MAX30
 - Programação com Arduino
 - Comunicação entre sensor e ESP32
 - Transmissão de dados via Wi-Fi
-- Dashboard embarcado em servidor web

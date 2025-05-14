@@ -1,4 +1,4 @@
-# Monitor de Batimentos Cardíacos IoT
+# Oxímetro IoT
 
 Um projeto de **IoT voltado para saúde**, usando o **ESP32** e o sensor **MAX30102** para medir **batimentos cardíacos e oxigenação do sangue (SpO₂)**, com visualização em tempo real via display LED.
 
